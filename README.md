@@ -31,7 +31,7 @@
 # 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_36F95774-7689-4B9B-913E-6A0864E6577F.png?raw=true" width="250">
+ 
 
   <img src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_8B82AFB0-3F1D-4A9A-B422-4CD359B5693F.png?raw=true" width="250">
 
