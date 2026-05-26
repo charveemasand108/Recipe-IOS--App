@@ -20,8 +20,10 @@ A beautiful modern iOS recipe app built using **SwiftUI** that generates recipes
 
 ---
 
-## 📸 Screenshots
 
+
+
+## 📸 Screenshots
 
 <table>
   <tr>
@@ -44,7 +46,6 @@ A beautiful modern iOS recipe app built using **SwiftUI** that generates recipes
     <td align="center">Favorites</td>
   </tr>
 </table>
----
 
 ## 🛠 Built With
 
