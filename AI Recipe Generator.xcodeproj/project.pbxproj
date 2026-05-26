@@ -6,8 +6,17 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A6FDB28B2FC5FB85004FC146 /* RecipeResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6FDB28A2FC5FB7F004FC146 /* RecipeResponse.swift */; };
+		A6FDB28D2FC5FE7A004FC146 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6FDB28C2FC5FE77004FC146 /* Recipe.swift */; };
+		A6FDB2912FC5FE9F004FC146 /* RecipeDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6FDB2902FC5FE98004FC146 /* RecipeDatabase.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		A65520E02FC5F31F00F81064 /* AI Recipe Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AI Recipe Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6FDB28A2FC5FB7F004FC146 /* RecipeResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeResponse.swift; sourceTree = "<group>"; };
+		A6FDB28C2FC5FE77004FC146 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
+		A6FDB2902FC5FE98004FC146 /* RecipeDatabase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDatabase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +43,9 @@
 			children = (
 				A65520E22FC5F31F00F81064 /* AI Recipe Generator */,
 				A65520E12FC5F31F00F81064 /* Products */,
+				A6FDB28A2FC5FB7F004FC146 /* RecipeResponse.swift */,
+				A6FDB28C2FC5FE77004FC146 /* Recipe.swift */,
+				A6FDB2902FC5FE98004FC146 /* RecipeDatabase.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -119,6 +131,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6FDB28D2FC5FE7A004FC146 /* Recipe.swift in Sources */,
+				A6FDB28B2FC5FB85004FC146 /* RecipeResponse.swift in Sources */,
+				A6FDB2912FC5FE9F004FC146 /* RecipeDatabase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
