@@ -22,20 +22,28 @@ A beautiful modern iOS recipe app built using **SwiftUI** that generates recipes
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
-### Home Screen
+<table>
+  <tr>
+    <td align="center">
+      <img width="250" alt="Home Screen" src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_36F95774-7689-4B9B-913E-6A0864E6577F.png?raw=true">
+    </td>
 
-<img width="300" alt="Home Screen" src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_36F95774-7689-4B9B-913E-6A0864E6577F.png?raw=true">
+    <td align="center">
+      <img width="250" alt="Recipe Card" src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_8B82AFB0-3F1D-4A9A-B422-4CD359B5693F.png?raw=true">
+    </td>
 
-### Recipe Card
+    <td align="center">
+      <img width="250" alt="Favorites Screen" src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_E3F04516-59A4-4282-A36C-28A11E1572F8.png?raw=true">
+    </td>
+  </tr>
 
-<img width="300" alt="Recipe Card" src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_8B82AFB0-3F1D-4A9A-B422-4CD359B5693F.png?raw=true">
-
-### Favorites Screen
-
-<img width="300" alt="Favorites Screen" src="https://github.com/charveemasand108/Recipe-IOS--App/blob/main/simulator_screenshot_E3F04516-59A4-4282-A36C-28A11E1572F8.png?raw=true">
-
+  <tr>
+    <td align="center">Home Screen</td>
+    <td align="center">Recipe Card</td>
+    <td align="center">Favorites</td>
+  </tr>
+</table>
 ---
 
 ## 🛠 Built With
